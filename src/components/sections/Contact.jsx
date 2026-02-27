@@ -381,7 +381,7 @@ const Contact = () => {
               <IconWrapper>📱</IconWrapper>
               <ContactInfo>
                 <ContactLabel>Phone Number</ContactLabel>
-                <ContactValue>+91 93458 55582</ContactValue>
+                <ContactValue>+91 9347273180 </ContactValue>
               </ContactInfo>
               <ArrowIcon>→</ArrowIcon>
             </ContactItem>
